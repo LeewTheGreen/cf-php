@@ -1,0 +1,7 @@
+---
+applications:
+- name: cf-php
+  memory: 128M
+  instances: 1
+  host: cf-php
+  path: .
