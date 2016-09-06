@@ -14,6 +14,6 @@
 			echo "<div>NA</div>";
 		}
 	?>
-	<div>BATMAN!!!</div>
+	<div>Pokemon!!!</div>
 </body>
 </html>
